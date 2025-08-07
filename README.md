@@ -1,1 +1,1 @@
-# SBI_Project_League
+A simple business information system made for a school subject
