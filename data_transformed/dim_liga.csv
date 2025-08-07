@@ -1,0 +1,115 @@
+league,split,playoffs,year,id_sezon
+LFL2,Winter,false,2025,1
+LPL,Split 1,false,2025,2
+LCKC,Kickoff,false,2025,3
+LVP SL,Winter,false,2025,4
+LCK,Cup,false,2025,5
+NLC,Winter,false,2025,6
+LCP,Split 1,false,2025,7
+LEC,Winter,false,2025,8
+HLL,Winter,false,2025,9
+PRM,Winter,false,2025,10
+LFL,Flash In,false,2025,11
+LIT,Winter,false,2025,12
+TCL,Winter,false,2025,13
+HW,,false,2025,14
+LJL,,false,2025,15
+LTA S,Split 1,false,2025,16
+LTA N,Split 1,false,2025,17
+RL,Winter,false,2025,18
+NLC,Winter,true,2025,19
+LJL,Forge,false,2025,20
+NEXO,Split 2,false,2025,21
+CD,,false,2025,22
+EBL,Winter,false,2025,23
+PCS,Split 1,false,2025,24
+ROL,Winter,false,2025,25
+LPLOL,Winter,false,2025,26
+AL,Winter,false,2025,27
+LEC,Winter,true,2025,28
+LTA,,true,2025,29
+LCP,Split 1,true,2025,30
+HLL,Winter,true,2025,31
+LFL,Flash In,true,2025,32
+EBL,Winter,true,2025,33
+LVP SL,Winter,true,2025,34
+LPL,Split 1,true,2025,35
+AL,Winter,true,2025,36
+PRM,Winter,true,2025,37
+VCS,Spring,false,2025,38
+RL,Winter,true,2025,39
+LFL2,Winter,true,2025,40
+TCL,Winter,true,2025,41
+FST,,false,2025,42
+PCS,Split 1,true,2025,43
+PCS,,false,2025,44
+EM,Winter,false,2025,45
+CD,Split 1,false,2025,46
+LPL,Split 2 Placements,false,2025,47
+LRS,Split 1,false,2025,48
+LRN,Split 1,false,2025,49
+PRM,Spring,false,2025,50
+ROL,Spring,false,2025,51
+NACL,Split 1,false,2025,52
+TCL,Spring,false,2025,53
+LAS,Champ 1,false,2025,54
+LEC,Spring,false,2025,55
+LCKC,Rounds 1-2,false,2025,56
+HLL,Spring,false,2025,57
+LCK,Rounds 1-2,false,2025,58
+HC,Spring,false,2025,59
+NLC,Spring,false,2025,60
+LIT,Spring,false,2025,61
+LJL,Storm,false,2025,62
+PRMP,,false,2025,63
+LPL,Split 2,false,2025,64
+LTA S,Split 2,false,2025,65
+LTA N,Split 2,false,2025,66
+PCS,Split 2,false,2025,67
+NEXO,Split 2,true,2025,68
+HM,Spring,false,2025,69
+RL,Spring,false,2025,70
+LVP SL,Spring,false,2025,71
+LFL,Spring,false,2025,72
+AL,Spring,false,2025,73
+EBL,Spring,false,2025,74
+LFL2,Spring,false,2025,75
+LIT,Spring,true,2025,76
+NLC,Spring,true,2025,77
+LPLOL,Spring,false,2025,78
+LCP,Split 2,false,2025,79
+EBL,Spring,true,2025,80
+VCS,Summer,false,2025,81
+NEXO,Split 3,false,2025,82
+LRN,Split 1,true,2025,83
+HM,Spring,true,2025,84
+ROL,Spring,true,2025,85
+LRS,Split 1,true,2025,86
+HLL,Spring,true,2025,87
+TCL,Spring,true,2025,88
+LFL,Spring,true,2025,89
+AL,Spring,true,2025,90
+RL,Spring,true,2025,91
+LVP SL,Spring,true,2025,92
+LPLOL,Spring,true,2025,93
+NACL,Split 1,true,2025,94
+LAS,Champ 1,true,2025,95
+CD,Split 1,true,2025,96
+PRM,Spring,true,2025,97
+LJL,Ignite,false,2025,98
+LPL,Split 2,true,2025,99
+HC,Spring,true,2025,100
+LEC,Spring,true,2025,101
+LTA S,Split 2,true,2025,102
+LTA N,Split 2,true,2025,103
+AL,Summer,false,2025,104
+ROL,,false,2025,105
+LCP,Split 2,true,2025,106
+LFL2,Spring,true,2025,107
+EM,Spring,false,2025,108
+LCK,Rounds 1-2,true,2025,109
+PCS,Split 2,true,2025,110
+NEXO,Split 3,true,2025,111
+LRN,Split 2,false,2025,112
+CT,,true,2025,113
+LRS,Split 2,false,2025,114
