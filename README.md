@@ -1,1 +1,1 @@
-A simple business information system made for a school subject, data was integrated by using ETL, visualization has been done in Power BI (missing the file) 
+A repository for archiving stuff done for the business information system subject including a mini-project made for it
